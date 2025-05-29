@@ -1,4 +1,4 @@
-# ${\color{Maroon} Sales\ Analysis\ using \ MySQL}$
+# ${\color{purple} Sales\ Analysis\ using \ MySQL}$
 📌 **Objective**
 - To perform exploratory and descriptive analysis on a sales dataset to extract business insights using SQL queries.
  
