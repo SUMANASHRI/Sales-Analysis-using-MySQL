@@ -5,7 +5,8 @@
 🛠 **Tools Used**
 - SQL (Structured Query Language)
 - MySQL or any compatible relational database management system
-📋Steps Included
+  
+📋**Steps Included**
 - Created and selected the database.
 - Queried records based on filters (e.g., category, country, date).
 - Used sorting, filtering, and pattern matching.
